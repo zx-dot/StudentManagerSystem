@@ -15,6 +15,7 @@ add_executable(StudentManSys
         mainwindow.cpp
         mainwindow.h
         mainwindow.ui
+        style/style.qss
 )
 
 target_link_libraries(StudentManSys
